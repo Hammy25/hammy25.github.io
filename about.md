@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Linux||Assembly||Reverse engineering||Networks||CyberSecurity||Blockchain
+Linux|-|Assembly|-|Reverse engineering|-|Networks|-|CyberSecurity|-|Blockchain
 
 ### Contact me
 
