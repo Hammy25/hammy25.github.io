@@ -4,8 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Linux|-|Assembly|-|Reverse engineering|-|Networks|-|CyberSecurity|-|Blockchain
+I post about:
+
+1. Programming
+2. Infosec
+3. Blockchain
+
+.....
+....
+...
+..
+.
+
+Basically cool stuff. 
+Enjoy!
 
 ### Contact me
 
-[Mail me!!!](mailto:hmwawuda25@protonmail.com)
+[Send me an email](mailto:hmwawuda25@protonmail.com)
